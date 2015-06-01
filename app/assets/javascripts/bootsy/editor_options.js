@@ -38,6 +38,7 @@ window.Bootsy.options = {
       "h1": {},
       "h2": {},
       "h3": {},
+      "streamer": {},
       "small": {},
       "p": {},
       "blockquote": {},
