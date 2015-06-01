@@ -25,7 +25,8 @@ window.Bootsy.options = {
       "wysiwyg-color-aqua" : 1,
       "wysiwyg-color-orange" : 1,
       "wysiwyg-float-left": 1,
-      "wysiwyg-float-right": 1
+      "wysiwyg-float-right": 1,
+      "wysiwyg-text-streamer": 1
     },
 
     tags: {
@@ -38,7 +39,9 @@ window.Bootsy.options = {
       "h1": {},
       "h2": {},
       "h3": {},
-      "streamer": {},
+      "streamer": {
+        "set_class": "wysiwyg-text-streamer"
+      },
       "small": {},
       "p": {},
       "blockquote": {},
