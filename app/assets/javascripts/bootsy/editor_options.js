@@ -43,6 +43,10 @@ window.Bootsy.options = {
         "rename_tag": "div",
         "set_class": "wysiwyg-text-streamer"
       },
+      "quote": {
+        "rename_tag": "div",
+        "set_class": "wysiwyg-text-quote"
+      },
       "small": {},
       "p": {},
       "blockquote": {},
