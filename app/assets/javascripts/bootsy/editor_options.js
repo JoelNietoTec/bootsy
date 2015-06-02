@@ -40,6 +40,7 @@ window.Bootsy.options = {
       "h2": {},
       "h3": {},
       "streamer": {
+        "rename_tag": "div",
         "set_class": "wysiwyg-text-streamer"
       },
       "small": {},
