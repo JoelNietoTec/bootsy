@@ -26,7 +26,8 @@ window.Bootsy.options = {
       "wysiwyg-color-orange" : 1,
       "wysiwyg-float-left": 1,
       "wysiwyg-float-right": 1,
-      "wysiwyg-text-streamer": 1
+      "wysiwyg-text-streamer": 1,
+      "wysiwyg-text-quote": 1
     },
 
     tags: {
